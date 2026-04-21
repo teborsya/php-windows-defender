@@ -72,12 +72,10 @@ windows-defender-test/
 Create the `uploads` folder manually if you want, or let the PHP sample create it automatically.
 
 ---
-
-## File 1: `WindowsDefenderScanner.php`
-
+## File 1: [`WindowsDefenderScanner.php`](windows-defender-test/WindowsDefenderScanner.php)
 ---
 
-## File 2: `upload.php`
+## File 2: [`upload.php`](windows-defender-test/upload.php)
 
 ---
 
